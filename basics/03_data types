@@ -1,0 +1,30 @@
+public class DataTypes {
+
+    public static void main(String[] args) {
+
+        // Integer
+        int number = 100;
+
+        // Decimal number
+        double price = 99.99;
+
+        // Character
+        char letter = 'A';
+
+        // Boolean
+        boolean result = true;
+
+        // Floating-point
+        float temperature = 36.5f;
+
+        // Long integer
+        long population = 1400000000L;
+
+        System.out.println("Integer: " + number);
+        System.out.println("Double: " + price);
+        System.out.println("Character: " + letter);
+        System.out.println("Boolean: " + result);
+        System.out.println("Float: " + temperature);
+        System.out.println("Long: " + population);
+    }
+}
